@@ -14,7 +14,9 @@
   <tr>
     <td>
 
-[![GIF of Volux demo](https://i.imgur.com/08MaUYg.gif)](https://gitlab.com/volux/volux)
+[![GIF of Volux 'Hack' motion engine demo](https://i.imgur.com/08MaUYg.gif)](https://gitlab.com/volux/volux)
+
+[![GIF of Volux 'Northern' motion engine demo on LIFX Tile](https://i.imgur.com/39QAfUc.gif)](https://gitlab.com/volux/volux)
     </td>
     <td>
         [![GIF of person using belt-sander on pile of papers](https://i.imgur.com/UQtyomQ.gif)](https://gitlab.com/DrTexx/csv-transaction-history-detective)
