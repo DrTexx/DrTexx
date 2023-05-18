@@ -24,12 +24,12 @@
     </th>
     <th>
       <a href="https://gitlab.com/DrTexx/csv-transaction-history-detective">
-        <img src="https://i.imgur.com/UQtyomQ.gif" alt="GIF of person using belt-sander on pile of papers" width="150px">
+        <img src="https://i.imgur.com/UQtyomQ.gif" alt="GIF of person using belt-sander on pile of papers" width="100%">
       </a>
     </th>
     <th>
       <a href="https://gitlab.com/DrTexx/open-latest-screenshot">
-        <img src="https://i.imgur.com/vG64LH6.gif" alt="GIF of demo of someone using Open Latest Screenshot" width="150px">
+        <img src="https://i.imgur.com/vG64LH6.gif" alt="GIF of demo of someone using Open Latest Screenshot" width="100%">
       </a>
     </th>
   </tr>
