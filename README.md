@@ -14,10 +14,10 @@
   <tr>
     <td>
 
-[![img](https://i.imgur.com/08MaUYg.gif)](https://gitlab.com/volux/volux)
+[![GIF of Volux demo](https://i.imgur.com/08MaUYg.gif)](https://gitlab.com/volux/volux)
     </td>
     <td>
-        [![img](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-YjrYkQhI5vk%2FUdY0OyvXXuI%2FAAAAAAAAbpU%2FzJXzNn_HNOQ%2Fs400%2Fpaperwork%2Bgif.gif&f=1&nofb=1&ipt=e4468bdab0a314494fdd98c950805e4802079d5e23cb71f5771a69561f2ff5bf&ipo=images)](https://gitlab.com/DrTexx/csv-transaction-history-detective)
+        [![GIF of person using belt-sander on pile of papers](https://i.imgur.com/UQtyomQ.gif)](https://gitlab.com/DrTexx/csv-transaction-history-detective)
     </td>
   </tr>
 </table>
