@@ -4,7 +4,11 @@
 
 <table>
   <tr>
-    <td><b>VOLUX</b></br>[GIF of Volux]</td>
+    <td>
+      <b>VOLUX</b></br>
+
+  [![img](https://i.imgur.com/08MaUYg.gif)](https://gitlab.com/volux/volux)  
+    </td>
   </tr>
 </table>
 
