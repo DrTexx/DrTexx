@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+#### 🤖 Projects
+
+<table>
+  <tr>
+    <td><b>VOLUX</b></br>[GIF of Volux]</td>
+  </tr>
+</table>
+
+#### 🌱 Contact me
+
+`🐦 Twitter` [@DrTexx](https://twitter.com/DrTexx)
+
+`📨 Email` [denver.opensource@tutanota.com](mailto:denver.opensource@tutanota.com)
+
 <!--
 **DrTexx/DrTexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
