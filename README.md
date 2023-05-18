@@ -6,10 +6,12 @@
   <tr>
     <th>Volux</th>
     <th>CSV Transaction History Detective</th>
+    <th>Open Latest Screenshot</th>
   </tr>
   <tr>
     <td>Control and create entertainment</td>
     <td>Search through loads of CSV files quickly</td>
+    <td>Use a hotkey to open your last screenshot</td>
   </tr>
   <tr>
     <td>
@@ -19,6 +21,9 @@
     </td>
     <td>
 [<img src="https://i.imgur.com/UQtyomQ.gif" alt="GIF of person using belt-sander on pile of papers" width="150px">](https://gitlab.com/DrTexx/csv-transaction-history-detective)
+    </td>
+    <td>
+[<img src="https://i.imgur.com/vG64LH6.gif" alt="GIF of demo of someone using Open Latest Screenshot" width="150px">](https://gitlab.com/DrTexx/open-latest-screenshot)
     </td>
   </tr>
 </table>
