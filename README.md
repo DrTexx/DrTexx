@@ -14,17 +14,24 @@
     <td>Use a hotkey to open your last screenshot</td>
   </tr>
   <tr>
-    <td>
-      
-[<img src="https://i.imgur.com/08MaUYg.gif" alt="GIF of Volux 'Hack' motion engine demo with OBS compositing" width="150px">](https://gitlab.com/volux/volux)
-[<img src="https://i.imgur.com/39QAfUc.gif" alt="GIF of Volux 'Northern' motion engine demo on LIFX Tile" width="150px">](https://gitlab.com/volux/volux)
-    </td>
-    <td>
-[<img src="https://i.imgur.com/UQtyomQ.gif" alt="GIF of person using belt-sander on pile of papers" width="150px">](https://gitlab.com/DrTexx/csv-transaction-history-detective)
-    </td>
-    <td>
-[<img src="https://i.imgur.com/vG64LH6.gif" alt="GIF of demo of someone using Open Latest Screenshot" width="150px">](https://gitlab.com/DrTexx/open-latest-screenshot)
-    </td>
+    <th>
+      <a href="https://gitlab.com/volux/volux">
+        <img src="https://i.imgur.com/08MaUYg.gif" alt="GIF of Volux 'Hack' motion engine demo with OBS compositing" width="150px">
+      </a>
+      <a href="https://gitlab.com/volux/volux">
+        <img src="https://i.imgur.com/39QAfUc.gif" alt="GIF of Volux 'Northern' motion engine demo on LIFX Tile" width="150px">
+      </a>
+    </th>
+    <th>
+      <a href="https://gitlab.com/DrTexx/csv-transaction-history-detective">
+        <img src="https://i.imgur.com/UQtyomQ.gif" alt="GIF of person using belt-sander on pile of papers" width="150px">
+      </a>
+    </th>
+    <th>
+      <a href="https://gitlab.com/DrTexx/open-latest-screenshot">
+        <img src="https://i.imgur.com/vG64LH6.gif" alt="GIF of demo of someone using Open Latest Screenshot" width="150px">
+      </a>
+    </th>
   </tr>
 </table>
 
