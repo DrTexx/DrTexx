@@ -42,10 +42,14 @@
 
 #### 🌱 Contact me
 
-`📨 Email` [denver.opensource@tutanota.com](mailto:denver.opensource@tutanota.com)
+- `📨 Email` [denver.opensource@tutanota.com](mailto:denver.opensource@tutanota.com)
+- `🦊 GitLab` [DrTexx](https://gitlab.com/users/DrTexx/projects)
+- `🐙 GitHub` [DrTexx](https://github.com/DrTexx?tab=repositories&type=source)
+- `🐦 Twitter` [@DrTexx](https://twitter.com/DrTexx)
+- `💼 LinkedIn` [Denver Pallis](https://au.linkedin.com/in/denver-pallis)
 
 <!--
-**DrTexx/DrTexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DrTexx/DrTexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub/GitLab profile.
 
 Here are some ideas to get you started:
 
