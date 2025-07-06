@@ -37,8 +37,6 @@
 
 #### 🌱 Contact me
 
-`🐦 Twitter` [@DrTexx](https://twitter.com/DrTexx)
-
 `📨 Email` [denver.opensource@tutanota.com](mailto:denver.opensource@tutanota.com)
 
 <!--
